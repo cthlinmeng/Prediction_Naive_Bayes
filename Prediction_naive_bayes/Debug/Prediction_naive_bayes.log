@@ -1,0 +1,3 @@
+﻿  Prediction_naive_bayes.cpp
+d:\c++\prediction_naive_bayes\prediction_naive_bayes\prediction_naive_bayes.cpp(109): warning C4018: '<': signed/unsigned mismatch
+  Prediction_naive_bayes.vcxproj -> D:\C++\Prediction_naive_bayes\Debug\Prediction_naive_bayes.exe
